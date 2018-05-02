@@ -21,7 +21,7 @@ const users = [
 const siteConfig = {
   title: 'SparkEd' /* title for your website */,
   tagline: 'Software for organizing and presenting educational and training content for delivery on most platforms.',
-  url: 'https://your-docusaurus-test-site.com' /* your website url */,
+  url: 'https://sparked.github.io' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -30,7 +30,7 @@ const siteConfig = {
   disableTitleTagline: true,
   // Used for publishing and more
   projectName: 'SparkEd',
-  organizationName: 'SparkEd',
+  organizationName: 'SparkEdUAB',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -38,7 +38,6 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
