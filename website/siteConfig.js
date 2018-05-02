@@ -19,17 +19,18 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
+  title: 'SparkEd' /* title for your website */,
+  tagline: 'Software for organizing and presenting educational and training content for delivery on most platforms.',
   url: 'https://your-docusaurus-test-site.com' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
-
+  disableHeaderTitle: false,
+  disableTitleTagline: true,
   // Used for publishing and more
-  projectName: 'test-site',
-  organizationName: 'facebook',
+  projectName: 'SparkEd',
+  organizationName: 'SparkEd',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -41,18 +42,18 @@ const siteConfig = {
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
-
+  headerTitle: 'SparkEd',
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
+  // headerIcon: 'img/docusaurus.svg',
   footerIcon: 'img/docusaurus.svg',
   favicon: 'img/favicon.png',
 
   /* colors for website */
   colors: {
-    primaryColor: '#2E8555',
+    primaryColor: '#2e8581',
     secondaryColor: '#205C3B',
   },
 
