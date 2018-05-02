@@ -4,8 +4,6 @@ title: Sparked For Education
 sidebar_label: Introduction
 ---
 
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
-
 ## Introduction
 
 
@@ -19,6 +17,6 @@ The SparkEd design offers ability to add textbooks and other locally owned conte
 
 ## Initial Development
 
-Initial programming was done in Zambia by programmers at Hackers Guild (@hackers guild) who trained programmers in Ethiopia (@supedplc).  End product of the project in Ethiopia now includes all Secondary and Preparatory subjects and content (grades 9-12) with suplemental content delivered on servers that are radiolinked for updating.  (see [Elearning Tool Development](http://www.uab.edu/sparkmancenter/elearning-tool-development) ).  Software is meant to be available for use in any setting where content is developed and could be uploaded.
+Initial programming was done in Zambia by programmers at Hackers Guild ([@hackersguild](https://github.com/hackersguild)) who trained programmers in Ethiopia ([@supedplc](https://github.com/supedplc)).  End product of the project in Ethiopia now includes all Secondary and Preparatory subjects and content (grades 9-12) with suplemental content delivered on servers that are radiolinked for updating.  (see [Elearning Tool Development](http://www.uab.edu/sparkmancenter/elearning-tool-development) ).  Software is meant to be available for use in any setting where content is developed and could be uploaded.
 
 
