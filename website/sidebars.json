@@ -2,9 +2,9 @@
   "docs": {
     "SparkEd": ["doc1"],
     "Accounts": ["doc2"],
-    "Dashboard": ["doc3"]
+    "Dashboard": ["doc3", "doc4"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "First Category": ["doc10", "doc5"]
   }
 }

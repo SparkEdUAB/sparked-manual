@@ -1,4 +1,5 @@
-**SparkEd Manual**
+**SparkEd Manual**  
+
 The repository contains the manual on SparkEd Platform usage, it also includes blogs.
 The documentations are written using Facebook's [Docusaurus](https://docusaurus.io/)
 
