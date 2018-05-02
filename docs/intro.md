@@ -1,5 +1,5 @@
 ---
-id: doc1
+id: intro
 title: Sparked For Education
 sidebar_label: Introduction
 ---

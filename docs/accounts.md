@@ -1,5 +1,5 @@
 ---
-id: doc3
+id: accounts
 title: Manage Accounts
 sidebar_label: Accounts
 ---

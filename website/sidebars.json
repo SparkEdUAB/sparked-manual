@@ -1,8 +1,8 @@
 {
   "docs": {
-    "SparkEd": ["doc1"],
-    "Accounts": ["doc2"],
-    "Dashboard": ["doc3", "doc4"]
+    "SparkEd": ["intro"],
+    "Accounts": ["accounts"],
+    "Dashboard": ["users", "contents", "referencelibrary", "statistics", "feedback", "slides", "externallinks", "setup"]
   },
   "docs-other": {
     "First Category": ["doc10", "doc5"]

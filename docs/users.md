@@ -1,5 +1,5 @@
 ---
-id: doc2
+id: users
 title: Accounts
 sidebar_label: Users
 ---
