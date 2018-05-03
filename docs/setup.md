@@ -35,13 +35,20 @@ When School is choosen as a structure option, SparkEd Contents will be arranged 
 All these can be added and managed with their separate contents when the Structure is School Based.
 So in short the School structure is for Universities.  
 
+![School Structure](assets/school10.png)
+
 ### Course  
 
 The Course Structure is designed to be an easy way for small institutions like Colleges to manage their contents, Administrators can add different courses with their course units and any other resources.  
 
+![Course Structure](assets/school11.png)  
+
+
 ### High School 
 
 The High School Structure is meant for lower level schools, because the structure levels are few, Managing High School Contents is as easy adding subjects, their units and the resources under those units.  
+
+![High School Structure](assets/school12.png)  
 
 When you are done entering all the required fields, click the save button and you will be asked to upload the logo.
 
