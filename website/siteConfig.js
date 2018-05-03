@@ -47,6 +47,12 @@ const siteConfig = {
   // If you have users set above, you add it here:
   users,
 
+  algolia: {
+    apiKey:
+      "9d5c1ad1c4f6f3c473c3145e8320937a",
+    indexName: "sparked"
+  },
+
   /* path to images for header/footer */
   // headerIcon: 'img/docusaurus.svg',
   favicon: 'img/favicon/favicon.ico',
