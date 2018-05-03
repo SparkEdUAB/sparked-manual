@@ -49,6 +49,44 @@ Under Programs page, you have a button to take you back to Schools anytime you w
 
 ![Programs Page](assets/school5.png)  
 
+## Courses 
+
+Courses are arranged in the same way programs are, Administrators and Content-Managers can add and modify courses, a point to note on adding or editing courses is that there is course year field, this is can be like 1st year or 2nd(eg: 1 or 2), for procedure on `adding`, `editing` and `deleting` please refer to this [link](#school) as the same applies to both.  
+
+![Courses Page](assets/school6.png)  
+
+## Course Units  
+
+The course units belong to the selected course, on this page the name of the course is shown on top of the page and since course units might be many we provide a search box to search through a couple of that course's unit.  
+There are 2 new buttons on this page, the `new` and `add reference`.  
+ 
+ ![Course Unit](assets/school7.png)
+
+### Adding Units
+
+`new` Button unlike on [Courses](#courses) or [Programs](#programs), it opens a new page.
+
+From the new page, you can add a `unit`, the `description` of that course and topics that belong to that course unit, there is two buttons the `red(-)` and the `green(+)`, these two will help you add or remove topic fields, this is case you want to add more than one topic at this level.  
+When you are done, you can click save to add the course unit with its topics, you can make use of the back button on top written `units`, it takes you to the list of course units.  
+
+![Add unit and topics](assets/school8.png)  
+
+### Add Reference  
+
+Back to the list of units, another button `add reference` allows `content-managers` to add resources that are under that course but don't necessary fall under any specific course unit or topic.  
+When the button is clicked, it will pop out a form to upload resources with the title of the current course.  
+You can upload multiple files with different file formats, the supported files are `images`, `pdf`, `audio`, `mp4`, `webm`.  
+
+The files may take a while to upload, this will depend on your server setup, the upload progress will be shown, once the upload is done you will be notified quickly and a link of where the uploaded files are listed will be provided, if you want you can follow it or you can continue with managing course units.  
+
+Note: ***The Uploaded files are not listed on course units page, they can be found in [Reference Library](referencelibrary.md)***
+
+![Add Reference](assets/school9.png)  
+
+### Searching Course Units  
+
+In case you are looking to edit a specific course unit, you can type the name of the course unit in the provided search box and press enter to see the matching results.  
+
 
 
 
