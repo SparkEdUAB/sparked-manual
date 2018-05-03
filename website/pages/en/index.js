@@ -170,9 +170,11 @@ class Index extends React.Component {
         <HomeSplash language={language} />
         <div className="mainContainer">
           <Features />
+          {/*
+          Temporary disabled the unecessary components on the landing Page
           <FeatureCallout />
           <LearnHow />
-          <Description />
+          <Description /> */}
         </div>
       </div>
     );
