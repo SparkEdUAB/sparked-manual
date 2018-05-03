@@ -54,7 +54,7 @@ const siteConfig = {
   },
 
   /* path to images for header/footer */
-  // headerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/sp6.png',
   favicon: 'img/favicon/favicon.ico',
 
   /* colors for website */
