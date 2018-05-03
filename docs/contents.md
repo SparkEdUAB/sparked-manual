@@ -70,6 +70,8 @@ There are 2 new buttons on this page, the `new` and `add reference`.
 From the new page, you can add a `unit`, the `description` of that course and topics that belong to that course unit, there is two buttons the `red(-)` and the `green(+)`, these two will help you add or remove topic fields, this is case you want to add more than one topic at this level.  
 When you are done, you can click save to add the course unit with its topics, you can make use of the back button on top written `units`, it takes you to the list of course units.  
 
+When a new unit is added, if User Authentication is enabled then users will be notified that there is new contents that has been added.  
+
 ![Add unit and topics](assets/school8.png)  
 
 ### Add Reference  
@@ -104,7 +106,7 @@ The Resources Page is one of the most important pages, Management is the same as
 > Resources to be added can be in different file formats, currently the supported files are `images`, `videos(mp4 and webm)`, `books(pdf)` and `audio(mp3)`.   
 The current size limit is 5GB but we would recommend to keep your files small to about `250mb` as the maximum per file however you are not limited.  
 
-The Upload will show you how many files you have selected to upload and how they are.  
+The Upload will show you how many files you have selected to upload and how big they are.  
 
 Just like on the [Add Reference](#add-reference) and [Uploading logo](setup.md#upload-institution-logo) the upload shows progress in percentage and a progress bar to let you know how far files are when uploading.  
 
