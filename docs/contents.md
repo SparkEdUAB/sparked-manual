@@ -90,6 +90,29 @@ In case you are looking to edit a specific course unit, you can type the name of
 
 ## Topics  
 
+The Topics page exist under the school and course structure, it comes immediately after course units and the resources are uploaded under a specific topic.  
+
+> To be added `Image for Topics Page`
+
+Topics can be managed(`Added`, `Edited` and `Deleted`) the same way as other contents in SparkEd  
+If it happens to be that topics listed are more than 10, the topics will be paginated, 10 is the default number of topics displayed on the per page, this can be changed in the top right corner of the page.  
+
+## Resources  
+
+The Resources Page is one of the most important pages, Management is the same as other pages, the only difference is that it allows you to upload resources for the previously added contents in this case, we are addding resources under the previous topic.  
+
+> Resources to be added can be in different file formats, currently the supported files are `images`, `videos(mp4 and webm)`, `books(pdf)` and `audio(mp3)`.   
+The current size limit is 5GB but we would recommend to keep your files small to about `250mb` as the maximum per file however you are not limited.  
+
+The Upload will show you how many files you have selected to upload and how they are.  
+
+Just like on the [Add Reference](#add-reference) and [Uploading logo](setup.md#upload-institution-logo) the upload shows progress in percentage and a progress bar to let you know how far files are when uploading.  
+
+
+
+
+
+
 
 
 
