@@ -2,7 +2,7 @@
   "docs": {
     "SparkEd": ["intro"],
     "Accounts": ["accounts"],
-    "Dashboard": ["users", "contents", "referencelibrary", "statistics", "feedback", "slides", "externallinks", "setup"]
+    "Dashboard": ["users", "setup", "contents", "referencelibrary", "statistics", "feedback", "slides", "externallinks"]
   },
   "docs-other": {
     "First Category": ["doc10", "doc5"]
