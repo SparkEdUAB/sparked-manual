@@ -7,7 +7,8 @@ title: SparkEd Contents
 
 As Explained in the previous page, The school structure is designed for large institution, This guide shows you the important things to know when managing schools' contents. 
 
-We assume School Structure was choosen during setup
+We assume School Structure was choosen during setup but the same management applies when the structure is [course based](setup.md#course) or it is for [high school](setup.md#high-school) , Starting from the [unit level](#course-units), you should be able to follow the same instruction despite the structure that you would have choosen when setting up.  
+
 
 ![Blank School Page](assets/school1.png)  
 
@@ -79,13 +80,15 @@ You can upload multiple files with different file formats, the supported files a
 
 The files may take a while to upload, this will depend on your server setup, the upload progress will be shown, once the upload is done you will be notified quickly and a link of where the uploaded files are listed will be provided, if you want you can follow it or you can continue with managing course units.  
 
-Note: ***The Uploaded files are not listed on course units page, they can be found in [Reference Library](referencelibrary.md)***
+**Note**: ***The Uploaded files are not listed on course units page, they can be found in [Reference Library](referencelibrary.md)***
 
 ![Add Reference](assets/school9.png)  
 
 ### Searching Course Units  
 
 In case you are looking to edit a specific course unit, you can type the name of the course unit in the provided search box and press enter to see the matching results.  
+
+
 
 
 

@@ -41,7 +41,7 @@ The Course Structure is designed to be an easy way for small institutions like C
 
 ### High School 
 
-The High School Structure as meant for lower level schools, because the structure levels are few, Managing High School Contents is as easy adding subjects, their units and the resources under those units.  
+The High School Structure is meant for lower level schools, because the structure levels are few, Managing High School Contents is as easy adding subjects, their units and the resources under those units.  
 
 When you are done entering all the required fields, click the save button and you will be asked to upload the logo.
 
