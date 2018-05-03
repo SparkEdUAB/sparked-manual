@@ -40,7 +40,9 @@ const siteConfig = {
     {doc: 'intro', label: 'Docs'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
+    { search: true },
   ],
+  noIndex: false,
   headerTitle: 'SparkEd',
   // If you have users set above, you add it here:
   users,

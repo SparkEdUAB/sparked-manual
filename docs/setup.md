@@ -53,7 +53,9 @@ We strongly recommend to upload a logo of less than `140X100` in resolution and 
 
 ![Logo Upload](assets/upload-logo.png)  
 
-Once the Upload is done successfully, You will be taken to the Main [DashBoard Page](accounts.md)
+Once the Upload is done successfully, You will be taken to the Main [DashBoard Page](accounts.md)  
+
+The next page discusses how to arrange contents in a different structure. 
 
 
 
