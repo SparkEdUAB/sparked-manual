@@ -6,9 +6,11 @@
     "publish-gh-pages": "docusaurus-publish",
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
-    "rename-version": "docusaurus-rename-version"
+    "rename-version": "docusaurus-rename-version",
+    "nodemon": "./node_modules/nodemon/bin/nodemon.js --config nodemon.json --exec npm run start "
   },
   "devDependencies": {
-    "docusaurus": "^1.0.14"
+    "docusaurus": "^1.0.14",
+    "nodemon": "^1.17.3"
   }
 }
