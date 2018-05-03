@@ -6,7 +6,7 @@ sidebar_label: Users
 ## Introduction
 
 The Platform allows to set User Authentication, this can either be enabled or disabled, this only applies to end-users(Students in most cases)
-Administrators and Content-Managers will always need to Create Accounts and Login for them to have access to the platform. 
+`Administrators` and `Content-Managers` will always need to Create Accounts and Login for them to have access to the platform. 
 
 ## Registration 
 
