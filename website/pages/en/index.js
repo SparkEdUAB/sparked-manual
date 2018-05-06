@@ -80,8 +80,8 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href={docUrl('intro.html', language)}>Intro</Button>
-            <Button href={docUrl('accounts.html', language)}>Get Started</Button>
+            <Button href={docUrl('intro.html', language)}>Administrators</Button>
+            <Button href={docUrl('homePage.html', language)}>Students and Users</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -102,19 +102,19 @@ const Features = props => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'This is the content of my feature',
+        content: 'Ability to organize contents following the University structure',
         image: imgUrl('school.svg'),
         imageAlign: 'top',
         title: 'University Based',
       },
       {
-        content: 'The content of my second feature',
+        content: 'Organize Contents for Colleges with Different Courses',
         image: imgUrl('course.svg'),
         imageAlign: 'top',
         title: 'Course Based',
       },
       {
-        content: 'The content of my second feature',
+        content: 'Contents can also be arranged as High Schools to help small schools manage their contents',
         image: imgUrl('highschool.svg'),
         imageAlign: 'top',
         title: 'High School',
