@@ -11,6 +11,12 @@
       "slides", 
       "statistics", 
       "feedback" 
+    ],
+    "End-Users" : [
+      "homePage",
+      "courses",
+      "contentsapp",
+      "viewer"
     ]
   },
   "docs-other": {
