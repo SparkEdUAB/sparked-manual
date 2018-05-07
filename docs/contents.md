@@ -15,6 +15,8 @@ We assume School Structure was choosen during setup but the same management appl
 The above page is for the `dashboard` and it is called school management, here you can `add` different schools, `delete` schools and  `edit` schools.  
 ### Add School
 The New button next to delete allows the Administrator to add a new school, when clicked it brings a simple form to add `Name of School`, ` School Code` as shown in the picture below.  
+Note: School Page is **high level** and only accessible to `Super Admin`, Content-managers don't have access to this page. 
+
 
 ![Add New School](assets/school2.png)  
 

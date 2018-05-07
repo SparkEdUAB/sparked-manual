@@ -1,5 +1,5 @@
 ---
-id: course
+id: courses
 title: Courses
 ---
 

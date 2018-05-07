@@ -1,7 +1,7 @@
 ---
 id: users
-title: Accounts
-sidebar_label: Users
+title: Authentication
+sidebar_label: Authentication
 ---
 ## Introduction
 
