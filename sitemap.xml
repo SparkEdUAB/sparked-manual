@@ -6,11 +6,11 @@
 <url> <loc>https://SparkEdUAB.github.io/docs/accounts.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/accounts.html" /> </url>
 <url> <loc>https://SparkEdUAB.github.io/docs/alltopics.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/alltopics.html" /> </url>
 <url> <loc>https://SparkEdUAB.github.io/docs/contents.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/contents.html" /> </url>
-<url> <loc>https://SparkEdUAB.github.io/docs/course.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/course.html" /> </url>
-<url> <loc>https://SparkEdUAB.github.io/docs/doc6.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/doc6.html" /> </url>
-<url> <loc>https://SparkEdUAB.github.io/docs/doc5.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/doc5.html" /> </url>
+<url> <loc>https://SparkEdUAB.github.io/docs/contentsapp.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/contentsapp.html" /> </url>
+<url> <loc>https://SparkEdUAB.github.io/docs/courses.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/courses.html" /> </url>
 <url> <loc>https://SparkEdUAB.github.io/docs/externallinks.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/externallinks.html" /> </url>
 <url> <loc>https://SparkEdUAB.github.io/docs/feedback.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/feedback.html" /> </url>
+<url> <loc>https://SparkEdUAB.github.io/docs/homePage.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/homePage.html" /> </url>
 <url> <loc>https://SparkEdUAB.github.io/docs/intro.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/intro.html" /> </url>
 <url> <loc>https://SparkEdUAB.github.io/docs/referencelibrary.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/referencelibrary.html" /> </url>
 <url> <loc>https://SparkEdUAB.github.io/docs/resources.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/resources.html" /> </url>
@@ -20,4 +20,5 @@
 <url> <loc>https://SparkEdUAB.github.io/docs/topics.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/topics.html" /> </url>
 <url> <loc>https://SparkEdUAB.github.io/docs/units.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/units.html" /> </url>
 <url> <loc>https://SparkEdUAB.github.io/docs/users.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/users.html" /> </url>
+<url> <loc>https://SparkEdUAB.github.io/docs/viewer.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://SparkEdUAB.github.io/docs/viewer.html" /> </url>
 </urlset>
