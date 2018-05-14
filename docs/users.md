@@ -1,17 +1,19 @@
 ---
 id: users
-title: Authentication
-sidebar_label: Authentication
+title: Registration of Users
+sidebar_label: Registration
 ---
 ## Introduction
 
-The Platform allows to set User Authentication, this can either be enabled or disabled, this only applies to end-users(Students in most cases)
-`Administrators` and `Content-Managers` will always need to Create Accounts and Login for them to have access to the platform. 
+Managers and Content Managers will always need to establish accounts and log in to manage the system at those levels. Users would be required to register if User Authentication would be required. 
+
 
 ## Registration 
 
-As mentioned above Whether User Authentication is enabled or disabled, Administrators will always need to register and login before they access SparkEd Dashboard.
-The following is a screenshot of the register Page.  
+The following is a screenshot of the registration Page.
+This same page would be used by users if User Authentication is enabled. 
+Information is entered and when “Register” button is hit, the Dashboard will be updated
+ 
 
 ![Register Page](assets/register.png)  
 

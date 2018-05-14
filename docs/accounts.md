@@ -23,7 +23,7 @@ User privileges can be assigned by the Administrator.
  
 <!-- Temporary removed this screenshot -->
 
-<!-- ![Accounts Page](assets/accounts.png)   -->
+![Accounts Page](assets/accounts.png)  
 
 <!-- An image will be later added here for ManageAccounts Page -->
 

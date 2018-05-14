@@ -1,10 +1,9 @@
 {
   "docs": {
     "SparkEd": ["intro", "initialsetup", "frameworkchoice"],
-    "Accounts": ["accounts"],
     "Dashboard": [
       "users", 
-      "setup", 
+      "accounts",
       "contents", 
       "referencelibrary",
       "externallinks",

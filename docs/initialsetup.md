@@ -30,7 +30,7 @@ You will be prompted to establish.
 1) name your system/school/program and have the option of adding a tagline or motto which will appear on your opening page;  
 2) whether you will require all end users to log in or not.  
 3) which broad framework for developing your resource you wish to use.  
-
+4) Upload the logo of your system/school/program. 
 The screenshot of the window for these decisions is below. 
 
 ![Setup Page](assets/setup.png)  

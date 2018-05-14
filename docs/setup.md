@@ -52,18 +52,6 @@ The High School Structure is meant for lower level schools, because the structur
 
 When you are done entering all the required fields, click the save button and you will be asked to upload the logo.
 
-## Upload Institution Logo  
-
-One of the best feature of SparkEd is that is allows administrators to customize it, part of this customization is to add your own logo.  
-
-We strongly recommend to upload a logo of less than `140X100` in resolution and for the best results it will be better if the size of the logo is less than `150kb`, the recommended logo format is `png` with a transparent background.
-
-![Logo Upload](assets/upload-logo.png)  
-
-Once the Upload is done successfully, You will be taken to the Main [DashBoard Page](accounts.md)  
-
-The next page discusses how to arrange contents in a different structure. 
-
 
 
 
