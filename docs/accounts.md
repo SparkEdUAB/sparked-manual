@@ -6,14 +6,24 @@ sidebar_label: Accounts
 
 ## Users
 
-Users who have created accounts with SparkEd will be listed here, **Full name**, **Role**, and their **Email**.
-This helps the Administrator to manage all users, `Their names can be changed`, `their accounts can be deleted`, `Their roles to the SparkEd platform can be upgraded`. eg: a Teacher can be given a role of a content-manager which will give the teacher privilege to add contents to the platform. 
+All users who create accounts with your SparkEd program will be listed here, with `privileges` identified by level (see below). This helps the `Administrator` to manage all users, including `name changes`, `approval` and `deletion of accounts`, `management of all roles`. 
 
-The Search bar allows the administrator to easily filter out users and search the exact one, They can search by name or email.
 
-For all actions that can be applied to a specific user expect editing, the content-manager has to select the checkbox(es) to either delete, approve or upgrade the role.  
+The `Search bar` allows the administrator to easily identify registered users by name or email.
+User privileges can be assigned by the Administrator.  
 
-![Accounts Page](assets/accounts.png)  
+## Role Definitions and Privileges  
+
+`Administrator` : has control over complete system and allows for activity and approval and editing of all privileges at other levels.  More than one administrator is allowed.  Administrator is the only user level where User Authentication can be changed (see below) and only Administrator can assign users new roles.  
+
+`Content Manager` : allows for adding and editing of contents. 
+
+`User`: allows for viewing of uploaded content but not editing or altering anything else in the system
+
+ 
+<!-- Temporary removed this screenshot -->
+
+<!-- ![Accounts Page](assets/accounts.png)   -->
 
 <!-- An image will be later added here for ManageAccounts Page -->
 
