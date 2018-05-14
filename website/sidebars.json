@@ -1,6 +1,6 @@
 {
   "docs": {
-    "SparkEd": ["intro", "initialsetup"],
+    "SparkEd": ["intro", "initialsetup", "frameworkchoice"],
     "Accounts": ["accounts"],
     "Dashboard": [
       "users", 
