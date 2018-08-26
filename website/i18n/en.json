@@ -25,6 +25,8 @@
     "resources": "resources",
     "slides": "Management",
     "statistics": "Statistics",
+    "sync": "Synchronization of Contents",
+    "Synchronization": "Synchronization",
     "topics": "topics",
     "users": "Registration of Users",
     "Registration": "Registration",
@@ -35,7 +37,7 @@
     "SparkEd": "SparkEd",
     "Dashboard": "Dashboard",
     "End-Users": "End-Users",
-    "First Category": "First Category"
+    "Sync": "Sync"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
