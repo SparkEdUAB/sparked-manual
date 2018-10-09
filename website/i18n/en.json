@@ -4,38 +4,86 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "Software for organizing and presenting educational and training content for delivery on most platforms.",
-    "accounts": "Manage Accounts",
-    "Accounts": "Accounts",
-    "alltopics": "All Topics",
-    "contents": "Contents",
-    "contentsapp": "Contents",
-    "courses": "Courses",
-    "externallinks": "External Links",
-    "feedback": "Feedback",
-    "frameworkchoice": "Initial Framework Choice",
-    "Initial Framework Choice": "Initial Framework Choice",
-    "homePage": "Landing",
-    "initialsetup": "Initial Setup",
-    "Initial Setup": "Initial Setup",
-    "intro": "SparkEd For Education",
-    "Introduction": "Introduction",
-    "reference": "Reference",
-    "Reference Library": "Reference Library",
-    "referencelibrary": "References",
-    "resources": "resources",
-    "slides": "Management",
-    "statistics": "Statistics",
-    "topics": "topics",
-    "users": "Registration of Users",
-    "Registration": "Registration",
-    "viewer": "ViewResource",
-    "Docs": "Docs",
-    "Help": "Help",
-    "Blog": "Blog",
-    "SparkEd": "SparkEd",
-    "Dashboard": "Dashboard",
-    "End-Users": "End-Users",
-    "First Category": "First Category"
+    "docs": {
+      "accounts": {
+        "title": "Manage Accounts",
+        "sidebar_label": "Accounts"
+      },
+      "alltopics": {
+        "title": "All Topics"
+      },
+      "contents": {
+        "title": "Contents"
+      },
+      "contentsapp": {
+        "title": "Contents"
+      },
+      "courses": {
+        "title": "Courses"
+      },
+      "externallinks": {
+        "title": "External Links"
+      },
+      "feedback": {
+        "title": "Feedback"
+      },
+      "frameworkchoice": {
+        "title": "Initial Framework Choice",
+        "sidebar_label": "Initial Framework Choice"
+      },
+      "homePage": {
+        "title": "Landing"
+      },
+      "initialsetup": {
+        "title": "Initial Setup",
+        "sidebar_label": "Initial Setup"
+      },
+      "intro": {
+        "title": "SparkEd For Education",
+        "sidebar_label": "Introduction"
+      },
+      "reference": {
+        "title": "Reference",
+        "sidebar_label": "Reference Library"
+      },
+      "referencelibrary": {
+        "title": "References"
+      },
+      "resources": {
+        "title": "resources"
+      },
+      "slides": {
+        "title": "Management"
+      },
+      "statistics": {
+        "title": "Statistics"
+      },
+      "sync": {
+        "title": "Synchronization of Contents",
+        "sidebar_label": "Synchronization"
+      },
+      "topics": {
+        "title": "topics"
+      },
+      "users": {
+        "title": "Registration of Users",
+        "sidebar_label": "Registration"
+      },
+      "viewer": {
+        "title": "ViewResource"
+      }
+    },
+    "links": {
+      "Docs": "Docs",
+      "Help": "Help",
+      "Blog": "Blog"
+    },
+    "categories": {
+      "SparkEd": "SparkEd",
+      "Dashboard": "Dashboard",
+      "End-Users": "End-Users",
+      "Sync": "Sync"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
