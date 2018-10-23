@@ -1,5 +1,7 @@
 **SparkEd Manual**  
 
+[![Build Status](https://travis-ci.org/SparkEdUAB/sparked-manual.svg?branch=source)](https://travis-ci.org/SparkEdUAB/sparked-manual)
+
 The repository contains the manual on SparkEd Platform usage, it also includes blogs.
 The documentations are written using Facebook's [Docusaurus](https://docusaurus.io/)
 
