@@ -33,7 +33,7 @@ You will be prompted to establish.
 4) Upload the logo of your system/school/program. 
 The screenshot of the window for these decisions is below. 
 
-![Setup Page](assets/setup.png)  
+![Setup Page](assets/setup_page.png)  
 
 
 ### Institution/Program Name  
