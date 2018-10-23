@@ -33,10 +33,12 @@ This is more likely to be a national program as we did in Ethiopia and so organi
 
 ## Institutional Logo  
 
+While Institution logo is not required, you can upload it when you and have it displayed along the Institution name and Institution logo.  
 Institutional logos or banners may be added as part of the customization
-Recommended size of logo upload is less than 140X100 in resolution and less than 150kb.  The recommended logo format is png with a transparent background.
+we strongly recommend to use high resolutions logo with `png` logo.  The recommended logo format is png with a transparent background.
 
-![Logo Upload](assets/upload-logo.png)  
+You can refer to the image on [setup page](initialsetup.md) on the page for uploading the logo
+  
 
 Once the Upload is done successfully, You will be taken to the Main [DashBoard Page](accounts.md)     
 
