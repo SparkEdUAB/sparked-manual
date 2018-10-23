@@ -31,5 +31,10 @@ and
 
     yarn build 
 
+## Publishing
+
+> To publish the site [here](https://sparkeduab.github.io/sparked-manual) run the following command  
+`./deploy.sh`
+
 
 
