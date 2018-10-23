@@ -37,7 +37,7 @@ While Institution logo is not required, you can upload it when you and have it d
 Institutional logos or banners may be added as part of the customization
 we strongly recommend to use high resolutions logo with `png` logo.  The recommended logo format is png with a transparent background.
 
-You can refer to the image on [setup page](initialsetup.md) on the page for uploading the logo
+You can refer to the image on [setup page](initialsetup.md#overview-1) on the page for uploading the logo
   
 
 Once the Upload is done successfully, You will be taken to the Main [DashBoard Page](accounts.md)     
