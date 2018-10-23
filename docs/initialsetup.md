@@ -15,22 +15,21 @@ You will be taken through the steps to set up what we consider a production “s
   
 ## Initial Administrator Set Up  
 
-a)	Download and install the program onto your production server.  
-b)	An initial window will open (pictured below) This screen shot is new and needs to be added for      the registration of the initial Administrator (see below for definitions).  
+a)	Follow the guide [here](https://github.com/SparkEdUAB/SparkEd/wiki) to get the SparkEd running on your server.   
+b)	An initial window will open (pictured below) the registration of the initial Administrator (see below for definitions).  
+c) Register to setup the platform as an administrator  
 
 ![register page](assets/register.png)  
 
-<!-- Temporary Removed this -->
-<!-- c)	Enter the required information and select the register button; the data will populate the Dashboard for the system.   -->  
 
 ##  Key Initial Decisions  
 
 ### Overview
 You will be prompted to establish.  
-1) name your system/school/program and have the option of adding a tagline or motto which will appear on your opening page;  
+1) name your system/school/program/institution and have the option of adding a tagline or motto which will appear on your opening page;  
 2) whether you will require all end users to log in or not.  
-3) which broad framework for developing your resource you wish to use.  
-4) Upload the logo of your system/school/program. 
+3) which broad framework for developing your resource you wish to use.(Defaults to High School)    
+4) Upload the logo of your system/school/program. (This is very optional)   
 The screenshot of the window for these decisions is below. 
 
 ![Setup Page](assets/setup_page.png)  
@@ -42,7 +41,7 @@ This will be totally dependent on what resource you intend to develop and can be
 
 ### User Authentication   
 
-The system allows for requiring User registration and log in or allowing use at the user level without login.  Requiring log in would allow for collection of individual user usage data vs just site “hit” usage data. Enabling User Authentication would require administrative approval of each enrolled user and so adds an administrative burden. This selection is made by `enabling` or `disabling` the User Authentication at set up; `default is Disabled`. 
+The system allows for requiring User registration and log in or allowing the use of the platform at the user level without login.  Requiring log in would allow collection of individual user usage data vs just site “hit” usage data. Enabling User Authentication would require administrative approval of each enrolled user and so adds an administrative burden. This selection is made by `enabling` or `disabling` the User Authentication at set up. `default is Disabled`. 
 
 
 
