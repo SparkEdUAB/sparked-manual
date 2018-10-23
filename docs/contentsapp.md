@@ -12,5 +12,10 @@ The screenshot below shows the topics page
 
 ![Topics Page](assets/topicss1.png)  
 
+> Depending on how the platform is customized, it can also look like the one below.  
+Note: The header doesn't have an institution logo  
+
+![Course Contents New](assets/contentsapp.png)   
+
 > Note: This page also shows the description on the previously selected course unit, in case this was added by the content-manager.  
 
