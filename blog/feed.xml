@@ -4,7 +4,7 @@
         <title>SparkEd Blog</title>
         <link>https://SparkEdUAB.github.io/sparked-manual/blog</link>
         <description>The best place to stay up-to-date with the latest SparkEd news and events.</description>
-        <lastBuildDate>Tue, 08 May 2018 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jan 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -12,7 +12,14 @@
             <url>https://SparkEdUAB.github.io/sparked-manual/img/sp6.png</url>
             <link>https://SparkEdUAB.github.io/sparked-manual/blog</link>
         </image>
-        <copyright>Copyright © 2018 SparkEd</copyright>
+        <copyright>Copyright © 2019 SparkEd</copyright>
+        <item>
+            <title><![CDATA[SparkEd v1.6.0]]></title>
+            <link>https://SparkEdUAB.github.io/sparked-manual/blog/2019/01/14/v1.6.0-out.html</link>
+            <guid>https://SparkEdUAB.github.io/sparked-manual/blog/2019/01/14/v1.6.0-out.html</guid>
+            <pubDate>Mon, 14 Jan 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Stable Release of SparkEd V1.6.0</p> <p>The following are the major things worked on in the current release, the number indicated as <code>#</code> show the pull request Id on github, we are working towards v2.0. Most of what is listed below are bug fixes and soon v1.6....</p>]]></description>
+        </item>
         <item>
             <title><![CDATA[SparkEd Stable Release]]></title>
             <link>https://SparkEdUAB.github.io/sparked-manual/blog/2018/05/08/stable-version-1.0.0.html</link>

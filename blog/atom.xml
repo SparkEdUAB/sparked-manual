@@ -2,12 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SparkEdUAB.github.io/sparked-manual/blog</id>
     <title>SparkEd Blog</title>
-    <updated>2018-05-08T06:00:00Z</updated>
+    <updated>2019-01-14T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://SparkEdUAB.github.io/sparked-manual/blog"/>
     <subtitle>The best place to stay up-to-date with the latest SparkEd news and events.</subtitle>
     <logo>https://SparkEdUAB.github.io/sparked-manual/img/sp6.png</logo>
-    <rights>Copyright © 2018 SparkEd</rights>
+    <rights>Copyright © 2019 SparkEd</rights>
+    <entry>
+        <title type="html"><![CDATA[SparkEd v1.6.0]]></title>
+        <id>https://SparkEdUAB.github.io/sparked-manual/blog/2019/01/14/v1.6.0-out.html</id>
+        <link href="https://SparkEdUAB.github.io/sparked-manual/blog/2019/01/14/v1.6.0-out.html">
+        </link>
+        <updated>2019-01-14T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Stable Release of SparkEd V1.6.0</p> <p>The following are the major things worked on in the current release, the number indicated as <code>#</code> show the pull request Id on github, we are working towards v2.0. Most of what is listed below are bug fixes and soon v1.6....</p>]]></summary>
+        <author>
+            <name>OlivierJM</name>
+            <uri>http://twitter.com/oliviermani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SparkEd Stable Release]]></title>
         <id>https://SparkEdUAB.github.io/sparked-manual/blog/2018/05/08/stable-version-1.0.0.html</id>
