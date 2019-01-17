@@ -1,7 +1,7 @@
 ---
 title: SparkEd Release
 author: OlivierJM
-authorURL: http://twitter.com/oliviermani
+authorURL: http://twitter.com/olivierjmm
 authorFBID: 100006531918094
 ---
 
