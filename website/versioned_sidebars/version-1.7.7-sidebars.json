@@ -1,0 +1,29 @@
+{
+  "version-1.7.7-docs": {
+    "SparkEd": [
+      "version-1.7.7-intro",
+      "version-1.7.7-initialsetup",
+      "version-1.7.7-frameworkchoice"
+    ],
+    "Dashboard": [
+      "version-1.7.7-users",
+      "version-1.7.7-accounts",
+      "version-1.7.7-contents",
+      "version-1.7.7-referencelibrary",
+      "version-1.7.7-externallinks",
+      "version-1.7.7-slides",
+      "version-1.7.7-statistics",
+      "version-1.7.7-feedback"
+    ],
+    "End-Users": [
+      "version-1.7.7-homePage",
+      "version-1.7.7-courses",
+      "version-1.7.7-contentsapp",
+      "version-1.7.7-viewer",
+      "version-1.7.7-reference"
+    ],
+    "Sync": [
+      "version-1.7.7-sync"
+    ]
+  }
+}
