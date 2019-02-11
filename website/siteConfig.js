@@ -31,7 +31,7 @@ const siteConfig = {
   disableHeaderTitle: false,
   disableTitleTagline: true,
   // Used for publishing and more
-  projectName: 'sparkEd',  // sparked-manual
+  projectName: 'sparked-manual',  // sparked-manual
   organizationName: 'SparkEdUAB',
  
   // For top-level user or org sites, the organization is still the same.
