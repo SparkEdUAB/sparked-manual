@@ -18,6 +18,8 @@ const users = [
   },
 ];
 
+const repoUrl = 'https://github.com/sparkeduab/sparked';
+
 const siteConfig = {
   title: 'SparkEd' /* title for your website */,
   tagline: 'Software for organizing and presenting educational and training content for delivery on most platforms.',
@@ -29,8 +31,9 @@ const siteConfig = {
   disableHeaderTitle: false,
   disableTitleTagline: true,
   // Used for publishing and more
-  projectName: 'sparked-manual',
+  projectName: 'sparkEd',  // sparked-manual
   organizationName: 'SparkEdUAB',
+ 
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
@@ -40,6 +43,7 @@ const siteConfig = {
     {doc: 'intro', label: 'Docs'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
+    {href: repoUrl, label: 'GitHub'},
     { search: true },
   ],
   noIndex: false,
@@ -98,7 +102,6 @@ const siteConfig = {
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  //   repoUrl: 'https://github.com/facebook/test-site',
 };
 
 module.exports = siteConfig;
