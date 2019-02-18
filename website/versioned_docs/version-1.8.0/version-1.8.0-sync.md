@@ -1,5 +1,5 @@
 ---
-id: version-1.7.7-sync
+id: version-1.8.0-sync
 title: Synchronization of Contents
 sidebar_label: Synchronization
 original_id: sync

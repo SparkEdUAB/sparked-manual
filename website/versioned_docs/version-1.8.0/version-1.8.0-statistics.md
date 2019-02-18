@@ -1,5 +1,5 @@
 ---
-id: version-1.7.7-statistics
+id: version-1.8.0-statistics
 title: Statistics
 original_id: statistics
 ---

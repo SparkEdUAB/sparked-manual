@@ -1,5 +1,5 @@
 ---
-id: version-1.7.7-frameworkchoice
+id: version-1.8.0-frameworkchoice
 title: Initial Framework Choice
 sidebar_label: Initial Framework Choice
 original_id: frameworkchoice

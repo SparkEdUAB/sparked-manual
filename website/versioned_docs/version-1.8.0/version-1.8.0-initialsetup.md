@@ -1,5 +1,5 @@
 ---
-id: version-1.7.7-initialsetup
+id: version-1.8.0-initialsetup
 title: Initial Setup
 sidebar_label: Initial Setup
 original_id: initialsetup

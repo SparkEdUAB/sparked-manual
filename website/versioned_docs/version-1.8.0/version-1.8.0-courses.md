@@ -1,5 +1,5 @@
 ---
-id: version-1.7.7-courses
+id: version-1.8.0-courses
 title: Courses
 original_id: courses
 ---

@@ -1,5 +1,5 @@
 ---
-id: version-1.7.7-users
+id: version-1.8.0-users
 title: Registration of Users
 sidebar_label: Registration
 original_id: users

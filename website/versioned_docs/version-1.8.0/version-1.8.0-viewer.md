@@ -1,5 +1,5 @@
 ---
-id: version-1.7.7-viewer
+id: version-1.8.0-viewer
 title: ViewResource
 original_id: viewer
 ---
