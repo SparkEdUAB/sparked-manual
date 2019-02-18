@@ -35,7 +35,7 @@ function Versions(props) {
               <tr>
                 <th>{latestVersion}</th>
                 <td>
-                  <a href="">Documentation</a>
+                  <a href="docs/next/intro.html">Documentation</a>
                 </td>
                 <td>
                   <a href="">Release Notes</a>
@@ -53,7 +53,7 @@ function Versions(props) {
               <tr>
                 <th>master</th>
                 <td>
-                  <a href="">Documentation</a>
+                  <a href="docs/intro.html">Documentation</a>
                 </td>
                 <td>
                   <a href="">Release Notes</a>
@@ -71,7 +71,7 @@ function Versions(props) {
                     <tr>
                       <th>{version}</th>
                       <td>
-                        <a href="">Documentation</a>
+                        <a href={`docs/${version}/intro.html`}>Documentation</a>
                       </td>
                       <td>
                         <a href="">Release Notes</a>

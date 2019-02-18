@@ -132,6 +132,67 @@
       },
       "version-1.7.7-viewer": {
         "title": "ViewResource"
+      },
+      "version-1.8.0-accounts": {
+        "title": "Manage Accounts",
+        "sidebar_label": "Accounts"
+      },
+      "version-1.8.0-alltopics": {
+        "title": "All Topics"
+      },
+      "version-1.8.0-contents": {
+        "title": "Contents"
+      },
+      "version-1.8.0-contentsapp": {
+        "title": "Contents"
+      },
+      "version-1.8.0-courses": {
+        "title": "Courses"
+      },
+      "version-1.8.0-externallinks": {
+        "title": "External Links"
+      },
+      "version-1.8.0-feedback": {
+        "title": "Feedback"
+      },
+      "version-1.8.0-frameworkchoice": {
+        "title": "Initial Framework Choice",
+        "sidebar_label": "Initial Framework Choice"
+      },
+      "version-1.8.0-homePage": {
+        "title": "Landing"
+      },
+      "version-1.8.0-initialsetup": {
+        "title": "Initial Setup",
+        "sidebar_label": "Initial Setup"
+      },
+      "version-1.8.0-intro": {
+        "title": "SparkEd For Education",
+        "sidebar_label": "Introduction"
+      },
+      "version-1.8.0-reference": {
+        "title": "Reference",
+        "sidebar_label": "Reference Library"
+      },
+      "version-1.8.0-referencelibrary": {
+        "title": "References"
+      },
+      "version-1.8.0-slides": {
+        "title": "Management"
+      },
+      "version-1.8.0-statistics": {
+        "title": "Statistics"
+      },
+      "version-1.8.0-sync": {
+        "title": "Synchronization of Contents",
+        "sidebar_label": "Synchronization"
+      },
+      "version-1.8.0-users": {
+        "title": "Registration of Users",
+        "sidebar_label": "Registration"
+      },
+      "version-1.8.0-viewer": {
+        "title": "ViewResource"
       }
     },
     "links": {
