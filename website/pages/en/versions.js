@@ -38,7 +38,7 @@ function Versions(props) {
                   <a href="docs/next/intro.html">Documentation</a>
                 </td>
                 <td>
-                  <a href="">Release Notes</a>
+                  <a href={`https://github.com/SparkEdUAB/SparkEd/releases/tag/v${latestVersion}`}>Release Notes</a>
                 </td>
               </tr>
             </tbody>
@@ -56,7 +56,7 @@ function Versions(props) {
                   <a href="docs/intro.html">Documentation</a>
                 </td>
                 <td>
-                  <a href="">Release Notes</a>
+                  <a href="https://github.com/SparkEdUAB/SparkEd/releases">Release Notes</a>
                 </td>
               </tr>
             </tbody>
@@ -74,7 +74,7 @@ function Versions(props) {
                         <a href={`docs/${version}/intro.html`}>Documentation</a>
                       </td>
                       <td>
-                        <a href="">Release Notes</a>
+                        <a href={`https://github.com/SparkEdUAB/SparkEd/releases/tag/v${version}`}>Release Notes</a>
                       </td>
                     </tr>
                   ),
