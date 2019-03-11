@@ -1,7 +1,7 @@
 ---
 id: version-1.8.0-stats
 title: Statistics collected from all contents
-sidebar_label: Stats
+sidebar_label: Stats*
 original_id: stats
 ---
 ## Stats   (*`new in v1.8`*) 
