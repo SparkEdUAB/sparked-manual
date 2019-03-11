@@ -25,6 +25,9 @@ function docUrl(doc, language) {
 function pageUrl(page, language) {
   return siteConfig.baseUrl + (language ? language + '/' : '') + page;
 }
+function link(url){
+  return url
+}
 
 class Button extends React.Component {
   render() {
@@ -135,6 +138,17 @@ const LearnHow = props => (
     ]}
   </Block>
 );
+const Maintainer = props => (
+  <Block background="light">
+    {[
+      {
+        content: `This project is maintained by a dedicated group of people, led by [OlivierJM](https://github.com/olivierjm)`,
+        imageAlign: 'right',
+        title: 'Maintenance',
+      },
+    ]}
+  </Block>
+);
 
 
 class Index extends React.Component {
@@ -156,6 +170,7 @@ class Index extends React.Component {
           <Description /> 
         */}
         <LearnHow />
+        <Maintainer />
         </div>
       </div>
     );

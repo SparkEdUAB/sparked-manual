@@ -1,5 +1,5 @@
 ---
-id: version-1.8.0-accounts
+id: version-1.8.2-accounts
 title: Manage Accounts
 sidebar_label: Accounts
 original_id: accounts

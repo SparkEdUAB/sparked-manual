@@ -1,0 +1,29 @@
+{
+  "version-1.8.2-docs": {
+    "SparkEd": [
+      "version-1.8.2-intro",
+      "version-1.8.2-initialsetup",
+      "version-1.8.2-frameworkchoice"
+    ],
+    "Dashboard": [
+      "version-1.8.2-users",
+      "version-1.8.2-accounts",
+      "version-1.8.2-contents",
+      "version-1.8.2-referencelibrary",
+      "version-1.8.2-externallinks",
+      "version-1.8.2-slides",
+      "version-1.8.2-statistics",
+      "version-1.8.2-feedback"
+    ],
+    "End-Users": [
+      "version-1.8.2-homePage",
+      "version-1.8.2-courses",
+      "version-1.8.2-contentsapp",
+      "version-1.8.2-viewer",
+      "version-1.8.2-reference"
+    ],
+    "Sync": [
+      "version-1.8.2-sync"
+    ]
+  }
+}
