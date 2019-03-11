@@ -35,7 +35,7 @@ function Versions(props) {
               <tr>
                 <th>{latestVersion}</th>
                 <td>
-                  <a href="docs/next/intro.html">Documentation</a>
+                  <a href={`docs/${latestVersion}/intro.html`}>Documentation</a>
                 </td>
                 <td>
                   <a href={`https://github.com/SparkEdUAB/SparkEd/releases/tag/v${latestVersion}`}>Release Notes</a>
@@ -66,9 +66,9 @@ function Versions(props) {
           <table className="versions">
             <tbody>
               {versions.map(
-                version =>
+                (version, i) =>
                   version !== latestVersion && (
-                    <tr>
+                    <tr key={i}>
                       <th>{version}</th>
                       <td>
                         <a href={`docs/${version}/intro.html`}>Documentation</a>

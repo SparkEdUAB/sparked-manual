@@ -4,7 +4,7 @@ title: Manage Accounts
 sidebar_label: Accounts
 ---
 
-## Users
+## Users 
 
 All users who create accounts with SparkEd platform will be listed here, with `privileges` identified by level (see below). This helps the `Administrator` to manage all users, including `name changes` and `deletion of accounts`, `management of all roles`. 
 

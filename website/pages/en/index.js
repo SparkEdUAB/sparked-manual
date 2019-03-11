@@ -123,34 +123,14 @@ const Features = props => (
   </Block>
 );
 
-const FeatureCallout = props => (
-  <div
-    className="productShowcaseSection paddingBottom"
-    style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
-    <MarkdownBlock>These are features of this project</MarkdownBlock>
-  </div>
-);
 
 const LearnHow = props => (
   <Block background="light">
     {[
       {
-        content: 'Talk about learning how to use this',
+        content: 'In Ethiopia SparkEd was depolyed on a server and it loaded more than 1,500 resources. It worked very well and was tested with more than 20 hosts.',
         imageAlign: 'right',
-        title: 'Learn How',
-      },
-    ]}
-  </Block>
-);
-
-const Description = props => (
-  <Block background="dark">
-    {[
-      {
-        content: 'This is another description of how this project is useful',
-        imageAlign: 'right',
-        title: 'Description',
+        title: 'Current Usage',
       },
     ]}
   </Block>
@@ -173,8 +153,9 @@ class Index extends React.Component {
           {/*
           Temporary disabled the unecessary components on the landing Page
           <FeatureCallout />
-          <LearnHow />
-          <Description /> */}
+          <Description /> 
+        */}
+        <LearnHow />
         </div>
       </div>
     );
