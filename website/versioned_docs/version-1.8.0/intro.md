@@ -21,4 +21,9 @@ The SparkEd design offers ability to add textbooks and other locally owned or pu
 
 Initial programming was done in Zambia by programmers at Hackers Guild ([@hackersguild](https://github.com/hackersguild)) who trained programmers in Ethiopia ([@supedplc](https://github.com/supedplc)).  End product of the project in Ethiopia now includes all Secondary and Preparatory subjects and content (grades 9-12) with suplemental content delivered on servers that are radiolinked for updating.  (see [Elearning Tool Development](http://www.uab.edu/sparkmancenter/elearning-tool-development) ).  Software is meant to be available for use in any setting where content is developed and could be uploaded.
 
+## New in Version1.8.0  
+
+The major thing that was included in this version is the ability to change from day mode to night mode, this helps users who stay longer on the screen. 
+You can read more about this implementation [here](http://localhost:3002/sparked-manual/blog/2019/02/12/v1.8.0-out.html)
+
 
