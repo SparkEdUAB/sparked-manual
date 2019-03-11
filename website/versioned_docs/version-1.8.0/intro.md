@@ -24,6 +24,6 @@ Initial programming was done in Zambia by programmers at Hackers Guild ([@hacker
 ## New in Version1.8.0  
 
 The major thing that was included in this version is the ability to change from day mode to night mode, this helps users who stay longer on the screen. 
-You can read more about this implementation [here](http://localhost:3002/sparked-manual/blog/2019/02/12/v1.8.0-out.html)
+You can read more about this implementation [here](https://sparkeduab.github.io/sparked-manual/blog/2019/02/12/v1.8.0-out.html)
 
 
