@@ -4,7 +4,7 @@ title: Statistics collected from all contents
 sidebar_label: Stats*
 original_id: stats
 ---
-## Stats   (*`new in v1.8`*) 
+## Stats  (*`new in v1.8`*) 
 
 SparkEd has many resources spread across and for the administrators to keep count of how many they are, they can use the Stats Page for checking the numbers of all those resources.  
 The displayed contents are the following: 
