@@ -72,192 +72,196 @@
       "viewer": {
         "title": "ViewResource"
       },
-      "version-1.7.7-accounts": {
+      "version-1.7.7/version-1.7.7-accounts": {
         "title": "Manage Accounts",
         "sidebar_label": "Accounts"
       },
-      "version-1.7.7-alltopics": {
+      "version-1.7.7/version-1.7.7-alltopics": {
         "title": "All Topics"
       },
-      "version-1.7.7-contents": {
+      "version-1.7.7/version-1.7.7-contents": {
         "title": "Contents"
       },
-      "version-1.7.7-contentsapp": {
+      "version-1.7.7/version-1.7.7-contentsapp": {
         "title": "Contents"
       },
-      "version-1.7.7-courses": {
+      "version-1.7.7/version-1.7.7-courses": {
         "title": "Courses"
       },
-      "version-1.7.7-externallinks": {
+      "version-1.7.7/version-1.7.7-externallinks": {
         "title": "External Links"
       },
-      "version-1.7.7-feedback": {
+      "version-1.7.7/version-1.7.7-feedback": {
         "title": "Feedback"
       },
-      "version-1.7.7-frameworkchoice": {
+      "version-1.7.7/version-1.7.7-frameworkchoice": {
         "title": "Initial Framework Choice",
         "sidebar_label": "Initial Framework Choice"
       },
-      "version-1.7.7-homePage": {
+      "version-1.7.7/version-1.7.7-homePage": {
         "title": "Landing"
       },
-      "version-1.7.7-initialsetup": {
+      "version-1.7.7/version-1.7.7-initialsetup": {
         "title": "Initial Setup",
         "sidebar_label": "Initial Setup"
       },
-      "version-1.7.7-intro": {
+      "version-1.7.7/version-1.7.7-intro": {
         "title": "SparkEd For Education",
         "sidebar_label": "Introduction"
       },
-      "version-1.7.7-reference": {
+      "version-1.7.7/version-1.7.7-reference": {
         "title": "Reference",
         "sidebar_label": "Reference Library"
       },
-      "version-1.7.7-referencelibrary": {
+      "version-1.7.7/version-1.7.7-referencelibrary": {
         "title": "References"
       },
-      "version-1.7.7-slides": {
+      "version-1.7.7/version-1.7.7-slides": {
         "title": "Management"
       },
-      "version-1.7.7-statistics": {
+      "version-1.7.7/version-1.7.7-statistics": {
         "title": "Statistics"
       },
-      "version-1.7.7-sync": {
+      "version-1.7.7/version-1.7.7-sync": {
         "title": "Synchronization of Contents",
         "sidebar_label": "Synchronization"
       },
-      "version-1.7.7-users": {
+      "version-1.7.7/version-1.7.7-users": {
         "title": "Registration of Users",
         "sidebar_label": "Registration"
       },
-      "version-1.7.7-viewer": {
+      "version-1.7.7/version-1.7.7-viewer": {
         "title": "ViewResource"
       },
-      "version-1.8.0-accounts": {
+      "version-1.8.0/version-1.8.0-accounts": {
         "title": "Manage Accounts",
         "sidebar_label": "Accounts"
       },
-      "version-1.8.0-alltopics": {
+      "version-1.8.0/version-1.8.0-alltopics": {
         "title": "All Topics"
       },
-      "version-1.8.0-contents": {
+      "version-1.8.0/version-1.8.0-contents": {
         "title": "Contents"
       },
-      "version-1.8.0-contentsapp": {
+      "version-1.8.0/version-1.8.0-contentsapp": {
         "title": "Contents"
       },
-      "version-1.8.0-courses": {
+      "version-1.8.0/version-1.8.0-courses": {
         "title": "Courses"
       },
-      "version-1.8.0-externallinks": {
+      "version-1.8.0/version-1.8.0-externallinks": {
         "title": "External Links"
       },
-      "version-1.8.0-feedback": {
+      "version-1.8.0/version-1.8.0-feedback": {
         "title": "Feedback"
       },
-      "version-1.8.0-frameworkchoice": {
+      "version-1.8.0/version-1.8.0-frameworkchoice": {
         "title": "Initial Framework Choice",
         "sidebar_label": "Initial Framework Choice"
       },
-      "version-1.8.0-homePage": {
+      "version-1.8.0/version-1.8.0-homePage": {
         "title": "Landing"
       },
-      "version-1.8.0-initialsetup": {
+      "version-1.8.0/version-1.8.0-initialsetup": {
         "title": "Initial Setup",
         "sidebar_label": "Initial Setup"
       },
-      "version-1.8.0-intro": {
+      "version-1.8.0/version-1.8.0-intro": {
         "title": "SparkEd For Education",
         "sidebar_label": "Introduction"
       },
-      "version-1.8.0-reference": {
+      "version-1.8.0/version-1.8.0-reference": {
         "title": "Reference",
         "sidebar_label": "Reference Library"
       },
-      "version-1.8.0-referencelibrary": {
+      "version-1.8.0/version-1.8.0-referencelibrary": {
         "title": "References"
       },
-      "version-1.8.0-slides": {
+      "version-1.8.0/version-1.8.0-slides": {
         "title": "Management"
       },
-      "version-1.8.0-statistics": {
+      "version-1.8.0/version-1.8.0-statistics": {
         "title": "Statistics"
       },
-      "version-1.8.0-stats": {
+      "version-1.8.0/version-1.8.0-stats": {
         "title": "Statistics collected from all contents",
         "sidebar_label": "Stats*"
       },
-      "version-1.8.0-sync": {
+      "version-1.8.0/version-1.8.0-sync": {
         "title": "Synchronization of Contents",
         "sidebar_label": "Synchronization"
       },
-      "version-1.8.0-users": {
+      "version-1.8.0/version-1.8.0-users": {
         "title": "Registration of Users",
         "sidebar_label": "Registration"
       },
-      "version-1.8.0-viewer": {
+      "version-1.8.0/version-1.8.0-viewer": {
         "title": "ViewResource"
       },
-      "version-1.8.2-accounts": {
+      "version-1.8.2/version-1.8.2-accounts": {
         "title": "Manage Accounts",
         "sidebar_label": "Accounts"
       },
-      "version-1.8.2-alltopics": {
+      "version-1.8.2/version-1.8.2-alltopics": {
         "title": "All Topics"
       },
-      "version-1.8.2-contents": {
+      "version-1.8.2/version-1.8.2-contents": {
         "title": "Contents"
       },
-      "version-1.8.2-contentsapp": {
+      "version-1.8.2/version-1.8.2-contentsapp": {
         "title": "Contents"
       },
-      "version-1.8.2-courses": {
+      "version-1.8.2/version-1.8.2-courses": {
         "title": "Courses"
       },
-      "version-1.8.2-externallinks": {
+      "version-1.8.2/version-1.8.2-externallinks": {
         "title": "External Links"
       },
-      "version-1.8.2-feedback": {
+      "version-1.8.2/version-1.8.2-feedback": {
         "title": "Feedback"
       },
-      "version-1.8.2-frameworkchoice": {
+      "version-1.8.2/version-1.8.2-frameworkchoice": {
         "title": "Initial Framework Choice",
         "sidebar_label": "Initial Framework Choice"
       },
-      "version-1.8.2-homePage": {
+      "version-1.8.2/version-1.8.2-homePage": {
         "title": "Landing"
       },
-      "version-1.8.2-initialsetup": {
+      "version-1.8.2/version-1.8.2-initialsetup": {
         "title": "Initial Setup",
         "sidebar_label": "Initial Setup"
       },
-      "version-1.8.2-intro": {
+      "version-1.8.2/version-1.8.2-intro": {
         "title": "SparkEd For Education",
         "sidebar_label": "Introduction"
       },
-      "version-1.8.2-reference": {
+      "version-1.8.2/version-1.8.2-reference": {
         "title": "Reference",
         "sidebar_label": "Reference Library"
       },
-      "version-1.8.2-referencelibrary": {
+      "version-1.8.2/version-1.8.2-referencelibrary": {
         "title": "References"
       },
-      "version-1.8.2-slides": {
+      "version-1.8.2/version-1.8.2-slides": {
         "title": "Management"
       },
-      "version-1.8.2-statistics": {
+      "version-1.8.2/version-1.8.2-statistics": {
         "title": "Statistics"
       },
-      "version-1.8.2-sync": {
+      "version-1.8.2/version-1.8.2-sync": {
         "title": "Synchronization of Contents",
         "sidebar_label": "Synchronization"
       },
-      "version-1.8.2-users": {
+      "version-1.8.2/version-1.8.2-users": {
         "title": "Registration of Users",
         "sidebar_label": "Registration"
       },
-      "version-1.8.2-viewer": {
+      "version-1.8.2/version-1.8.2-viewer": {
         "title": "ViewResource"
+      },
+      "version-2.2.0/version-2.2.0-accounts": {
+        "title": "Manage Accounts",
+        "sidebar_label": "Accounts"
       }
     },
     "links": {
