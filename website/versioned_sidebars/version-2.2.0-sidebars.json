@@ -1,0 +1,30 @@
+{
+  "version-2.2.0-docs": {
+    "SparkEd": [
+      "version-2.2.0-intro",
+      "version-2.2.0-initialsetup",
+      "version-2.2.0-frameworkchoice"
+    ],
+    "Dashboard": [
+      "version-2.2.0-users",
+      "version-2.2.0-accounts",
+      "version-2.2.0-contents",
+      "version-2.2.0-referencelibrary",
+      "version-2.2.0-externallinks",
+      "version-2.2.0-slides",
+      "version-2.2.0-statistics",
+      "version-2.2.0-stats",
+      "version-2.2.0-feedback"
+    ],
+    "End-Users": [
+      "version-2.2.0-homePage",
+      "version-2.2.0-courses",
+      "version-2.2.0-contentsapp",
+      "version-2.2.0-viewer",
+      "version-2.2.0-reference"
+    ],
+    "Sync": [
+      "version-2.2.0-sync"
+    ]
+  }
+}
